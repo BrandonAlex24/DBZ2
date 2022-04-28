@@ -8,27 +8,27 @@
     "orientation": "landscape",
     "start_url": "index.html",
     "icons": [{
-        "src": "images/icons/g1.png",
+        "src": "img/icons/g1.png",
         "type": "image/png",
         "sizes": "72x72"
         }, {
-        "src": "images/icons/g2.png",
+        "src": "img/icons/g2.png",
         "type": "image/png",
         "sizes": "64x64"
         }, {
-        "src": "images/icons/g3.png",
+        "src": "img/icons/g3.png",
         "type": "image/png",
         "sizes": "48x48"
         }, {
-        "src": "images/icons/g4.png",
+        "src": "img/icons/g4.png",
         "type": "image/png",
         "sizes": "128x128"
         }, {
-        "src": "images/icons/g5.png",
+        "src": "img/icons/g5.png",
         "type": "image/png",
         "sizes": "32x32"
         }, {
-            "src": "images/icons/g7.png",
+            "src": "img/icons/g7.png",
             "type": "image/png",
             "sizes": "144x144"
             }
